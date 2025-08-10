@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **machine learning, data storytelling, AI ethics, or the best TV shows to binge**
 
-- 📫 How to reach me **malindaratnaduhita@gmail.com**
+- 📫 How to reach me **malindard.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
