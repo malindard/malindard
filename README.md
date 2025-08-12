@@ -113,7 +113,7 @@
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
   <!-- TensorFlow -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
