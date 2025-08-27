@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,aws,cpp,css,fastapi,flask,gcp,git,html,js,laravel,mysql,nextjs,opencv,postman,py,pytorch,raspberrypi,react,sqlite,sklearn,selenium,tensorflow,ts,ubuntu&theme=dark)](https://skillicons.dev)
 
 <p align="left">
   <!-- Arduino -->
