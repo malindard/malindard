@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linda</h1>
 <h3 align="center">AI & Data Science enthusiast | always curious, often caffeinated... ☕ until the jitters hit</h3>
 
-- 🔭 I’m currently working on **fine tune LLM, OCR**
+- 🔭 I’m currently working on **LLM fine-tuning, OCR**
 
 - 🌱 I’m currently learning **advanced ML pipelines, LLM fine-tuning, Node.js**
 
