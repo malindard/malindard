@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linda</h1>
 <h3 align="center">AI & Data Science enthusiast | always curious, often caffeinated... ☕ until the jitters hit</h3>
 
-- 🔭 I’m currently working on **LLM fine-tuning, OCR**
+- 🔭 I’m currently working on **LLM fine-tuning, AI Agents**
 
 - 🌱 I’m currently learning **advanced ML pipelines, LLM fine-tuning, Node.js**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,aws,cpp,css,fastapi,flask,gcp,git,html,js,laravel,mysql,nextjs,opencv,postman,py,pytorch,raspberrypi,react,sqlite,sklearn,selenium,tensorflow,ts,ubuntu&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,aws,cpp,css,docker,fastapi,figma,flask,gcp,git,html,js,laravel,mysql,nextjs,opencv,postman,py,pytorch,raspberrypi,react,sqlite,sklearn,selenium,tailwind,tensorflow,ts,ubuntu&theme=dark)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malindard&show_icons=true&locale=en&layout=compact" alt="malindard" /></p>
 
