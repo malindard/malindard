@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Linda</h1>
-<h3 align="center">AI & Data Science enthusiast | always curious, often caffeinated... ☕ until the jitters hit</h3>
+<h3 align="center">AI & Data Science enthusiast</h3>
 
-- 🔭 I’m currently working on **LLM fine-tuning, AI Agents**
-
-- 🌱 I’m currently learning **advanced ML pipelines, LLM fine-tuning, Node.js**
+- 🔭 I’m currently working and learning **LLM fine-tuning, AI Agents**
 
 - 👯 I’m looking to collaborate on **AI/ML projects, data-driven products**
 
-- 💬 Ask me about **machine learning, data storytelling, AI ethics, or the best TV shows to binge**
+- 💬 Ask me about **machine learning, AI, or the best TV shows to binge**
 
 - 📫 How to reach me **malindard.dev@gmail.com**
 
@@ -21,11 +19,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,aws,cpp,css,docker,fastapi,figma,flask,gcp,git,html,js,laravel,mysql,nextjs,opencv,postman,py,pytorch,raspberrypi,react,sqlite,sklearn,selenium,tailwind,tensorflow,ts,ubuntu&theme=dark)](https://skillicons.dev)
 
+<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malindard&show_icons=true&locale=en&layout=compact" alt="malindard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malindard&show_icons=true&locale=en" alt="malindard" /></p>
 
-<!--
 **malindard/malindard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
